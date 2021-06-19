@@ -1,10 +1,1 @@
- Volume in drive C is HDD2020
- Volume Serial Number is 00A3-0CB8
-
- Directory of C:\Users\LeeFamily\OneDrive\Desktop\MyProject
-
-19/06/2021  04:43 pm    <DIR>          .
-19/06/2021  04:43 pm    <DIR>          ..
-19/06/2021  04:43 pm                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  855,814,012,928 bytes free
+change 1
